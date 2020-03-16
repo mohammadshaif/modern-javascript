@@ -1,0 +1,8 @@
+change derectore
+cd c:\
+cd WebDevelopment\javascript
+
+folder a kiki ase
+dir
+
+cd ..  ak stap pisone jabe
